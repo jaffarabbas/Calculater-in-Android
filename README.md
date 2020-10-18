@@ -2,4 +2,4 @@
 
 simple calculater in android using rhino
 
-[![Alt text for your video](https://youtu.be/lQE3H2LNWPM)](https://youtu.be/lQE3H2LNWPM)
+[![Calculater Demo](https://www.youtube.com/watch?v=lQE3H2LNWPM)](https://www.youtube.com/watch?v=lQE3H2LNWPM)
